@@ -1,0 +1,68 @@
+* {
+
+    font-family: "Times New Roamn"
+}
+
+
+/* question 1 style */
+
+#box {
+    background-color: blue;
+}
+
+.heading {
+    color: #ff0000;
+}
+
+#jannat1 {
+    background-color: #00ff00;
+}
+
+/*  practice set 2 style*/
+
+
+#capitalized {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#outer {
+    font-size: 25px;
+}
+
+#inner {
+    font-size: 10px;
+}
+
+/* practice set 3 */
+
+#set3 {
+    height: 100px;
+    width: 100px;
+    background-color: #00ff00;
+    border-radius: 50%;
+}
+
+/* nav related style */
+.navbar {
+    height: 60px;
+    background-color: #0f1111
+}
+
+.navbar .ancor {
+    color: white;
+    margin: 100px;
+    text-decoration: none;
+}
+
+
+
+.amazon {
+    font-size: 25px;
+    color: #f08804;
+    text-decoration: none;
+}
+
+#navbutton {
+    color: #f08804;
+}
