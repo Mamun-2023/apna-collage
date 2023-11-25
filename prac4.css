@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* nav related style */
+.navbar {
+    height: 60px;
+    background-color: #0f1111
+}
+
+.navbar .ancor {
+    color: white;
+    margin: 100px;
+    text-decoration: none;
+}
+
+
+
+.amazon {
+    font-size: 25px;
+    color: #f08804;
+    text-decoration: none;
+}
+
+#navbutton {
+    color: #f08804;
+}
+
+/* main related style */
+/* .divone {
+    height: 100px;
+    width: 100px;
+    background-color: rgba(0, 140, 255, 0.5);
+    border: 5px solid teal;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+
+.divtwo {
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255, 0, 0, 0.5);
+    border: 5px solid red;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: 10px;
+} */
+
+
+
+footer {
+    background-color: rgba(255, 0, 0, 0.5);
+    color: yellow;
+    height: 100px;
+    padding: 90px;
+}
+
+main {
+    height: 700px;
+
+}
+
+.divlist {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-color: rgba(0, 255, 0, 0.5);
+    border: 5px solid rgb(66, 0, 128);
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
